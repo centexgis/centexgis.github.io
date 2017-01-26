@@ -7,7 +7,7 @@ permalink: /
   <div class="container">
     <div class="row centered">
         <div class="col-md-4">
-            <a href="/blog/"><i class="fa fa-briefcase"></i></a>
+            <a href="/jobs/"><i class="fa fa-briefcase"></i></a>
             <h4>Job Postings</h4>
             <p>
                 {% for job in site.categories['jobs'] limit: 5%}
@@ -15,9 +15,10 @@ permalink: /
                 {% endfor %}
             </p>
             
+            
         </div>
         <div class="col-md-4">
-            <a href="/blog/"><i class="fa fa-calendar"></i></a>
+            <a href="/events/"><i class="fa fa-calendar"></i></a>
             <h4>Events</h4>
             {% for event in site.categories['events'] limit:5 %}
                 <a href="{{event.url | prepend: site.baseurl}}">{{event.title}}</a></br>
