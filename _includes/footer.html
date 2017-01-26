@@ -1,29 +1,33 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-md-8">
                 <h4>About</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
             </div>
-            <div class="col-lg-4">
-                <h4>Social Links</h4>
+            <div class="col-md-4">
+                <h4>Become A Sponsor</h4>
                 <div class="hline-w"></div>
-                <p>
-                    {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Our Bunker</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
+                <p>Interested in helping CenTexGIS achieve it's goal? Let us know<a href="mailto:host@centexgis.org?Subject=Sponsorship"> <span class="footerlink">here</span></a></p>
             </div>
         </div><! --/row -->
+        <div class="row">
+            <p class="text-center"> COPYRIGHT CENTEX GIS 2015</p>
+        </div><!--row-->
     </div><! --/container -->
 </div><! --/footerwrap -->
+
+
+
+
+<!--             <div class="col-md-4">
+                <h4>Social Links</h4>
+                <div class="hline-w"></div>
+                <p class="text-center">
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                        <a href="mailto:host@centexgis.org?Subject=General%20Questions" class="btn-social btn-outline"><i class="fa fa-envelope-o"></i></a>
+                    {% endfor %}
+                </p>
+            </div> -->
