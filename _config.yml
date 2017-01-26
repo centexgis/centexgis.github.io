@@ -5,7 +5,7 @@ title: CENTEXGIS
 description: "A GEOGRAPHIC INFORMATION SYSTEMS USER GROUP SERVING CENTRAL TEXAS"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "centexgis.org"
+url: "centexgis.github.io"
 
 # Build settings
 markdown: kramdown
@@ -42,7 +42,7 @@ address:
   - lines: 
     - We are based in Austin, Texas
     - Questions about membership, sponsorship or just want to get in touch. Send us an email.
-email: host@centexgis.org
+email: centexgis@gmail.com
 # tel: +34 8493-4893
 
 
