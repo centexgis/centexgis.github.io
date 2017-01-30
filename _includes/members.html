@@ -1,11 +1,11 @@
 <div class="container mtb">
     <div class="row">
-    
+        
         <div class="col-md-6">
-        <h3 class="mb text-left">Officers</h3>
+        <h3 class="mb text-center">Officers</h3>
         <hr>
         {% for member in site.members %}
-            <h4>{{ member.name }}</h4> 
+            <h4 class="text-center">{{ member.name }}</h4> 
                 <p>
                 {{ member.position }}&nbsp;        
                 {% for entry in member.social %}
@@ -14,12 +14,13 @@
                 </p>
             {% endfor %}
         </div>
-        
+        <br>
+    
         <div class="col-md-6">
-        <h3 class="mb text-left">Planning Committee</h3>
+        <h3 class="mb text-center">Planning Committee</h3>
         <hr>
         {% for committee in site.committees %}
-            <h4>{{ committee.name }}</h4>
+            <h4 class="text-center">{{ committee.name }}</h4>
         {% endfor %}
         </div>
     
