@@ -1,5 +1,5 @@
 New CenTexGIS site based on fork of SOLID Jekyll theme.
-view the site here - https://centexgis.github.io
+View the site here - https://centexgis.github.io
 
 ------------------------------------------------------------------
 
