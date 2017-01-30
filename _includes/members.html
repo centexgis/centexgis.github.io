@@ -1,21 +1,21 @@
 <div class="container mtb">
     <div class="row">
     <h3 class="mb text-center">Committee Members</h3>
-    <div class="col-md-6">
-      {% for member in site.members %}
+        <div class="col-md-4">
+        {% for member in site.members %}
             <h4>{{ member.name }}</h4> 
-            <p>
-            {{member.position}}&nbsp;        
-            {% for entry in member.social %}
-                <a href="{{ entry.url }}"> <i class="fa fa-{{ entry.title }}"></i></a>
+                <p>
+                {{ member.position }}&nbsp;        
+                {% for entry in member.social %}
+                    <a href="{{ entry.url }}"> <i class="fa fa-{{ entry.title }}"></i></a>
+                {% endfor %}
+                </p>
             {% endfor %}
-            </p>
+        </div>
+        <div class="col-md-4">
+        {% for committee in site.committees %}
+            <h4>{{ committee.name }}</h4>
         {% endfor %}
         </div>
-    <div class="col-md-6">
-    {% for committee in site.committees %}
-        <h4>{{ committee.name }}</h4>
-    {% endfor %}
-    </div>
     </div><!--/row -->
 </div><!--/container -->

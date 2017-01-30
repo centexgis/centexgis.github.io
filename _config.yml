@@ -69,7 +69,7 @@ members:
     position: Vice Chair
     social:
       - title: envelope #use for email address
-        url: Deven.Rohrer@atkinsglobal.com
+        url: mailto:Deven.Rohrer@atkinsglobal.com
 committees:
 - name: Ajay Jadhav
 - name: Sumant Mallavaram
