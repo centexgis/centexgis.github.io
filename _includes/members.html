@@ -1,8 +1,8 @@
 <div class="container mtb text-center">
     <div class="row">
+		<div class="col-md-12"><h1 class="mb">2017</h1></div>
         <div class="col-md-6">
         <h2 class="mb">Officers</h2>
-        
         {% for member in site.members %}
             <h4>{{ member.name }}</h4> 
                 <p>
@@ -15,7 +15,6 @@
     
         <div class="col-md-6">
         <h2 class="mb">Planning Committee</h2>
-        
         {% for committee in site.committees %}
             <h4 class="text-center">{{ committee.name }}</h4>
         {% endfor %}
