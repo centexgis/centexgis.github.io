@@ -50,38 +50,33 @@ email: centexgis@gmail.com
     
 # Members information. Shown on About page.
 members:
-  - name: Chris Robertson
+  - name: Jacquelyn Bilbro, GISP
     position: Chair
     social:
       - title: envelope #use for email address
-        url: mailto:crobertson@stegerbizzell.com
-  - name: Sara Smith GISP
+        url: mailto:jacqcmb@gmail.com
+  - name: Conrad Schaefer, GISP
     position: Vice-Chair
     social:
       - title: envelope #use for email address
-        url: mailto:sara.smith@austintexas.gov
-  - name: Jacquelyn Bilbro GISP
+        url: mailto:frshtrax@yahoo.com
+  - name: Kristi Teykl, GISP
     position: Secretary
     social:
       - title: envelope #use for email address
-        url: mailto:jacqcmb@gmail.com
-  - name: Deven Rohrer GISP
-    position: Vice Chair
-    social:
-      - title: envelope #use for email address
-        url: mailto:Deven.Rohrer@atkinsglobal.com
+        url: mailto:kristi.teykl@aecom.com
 committees:
-- name: Ajay Jadhav
-- name: Sumant Mallavaram
-- name: Megan Yancy
-- name: Sara Safavi
-- name: Annie Van Zant 
+- name: Chris Robertson
+- name: Colin Sutton
+- name: Danny Haverlah
+- name: David Koberlein
+- name: Deven Rohrer
 - name: Dolph Scott
-- name: Greg Goldman 
-- name: Jennifer Moczygemba
+- name: John Haney 
 - name: John Schulz
-- name: Octavio Ulloa
-- name: Ross Clark
+- name: Laura Haverlah
+- name: Megan Yancy
+- name: Sarah Smith
 
 # # Clients information. Shown on Home and About pages.
 # clients:
