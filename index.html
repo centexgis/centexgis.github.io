@@ -11,7 +11,7 @@ permalink: /
             <a href="/blog/jobs/"><i class="fa fa-briefcase"></i></a>
             <h4>Jobs</h4>
             {% for job in site.categories['jobs'] limit: 5 %}
-                <a href="{{job.url | prepend: site.baseurl}}">{{job.title}}</a></br>
+                <a href="{{jobs.url | prepend: site.baseurl}}">{{job.title}}</a></br>
             {% endfor %}
             
         </div>
@@ -19,7 +19,7 @@ permalink: /
             <a href="/blog/events/"><i class="fa fa-calendar"></i></a>
             <h4>Events</h4>
             {% for event in site.categories['events'] limit:5 %}
-                <a href="{{event.url | prepend: site.baseurl}}">{{event.title}}</a></br>
+                <a href="{{events.url | prepend: site.baseurl}}">{{event.title}}</a></br>
             {% endfor %}
             
         </div>
