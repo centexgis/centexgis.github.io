@@ -69,14 +69,14 @@ committees:
 - name: Chris Robertson
 - name: Colin Sutton
 - name: Danny Haverlah
-- name: David Koberlein
-- name: Deven Rohrer
+- name: David Koberlein, GISP
+- name: Deven Rohrer, GISP
 - name: Dolph Scott
-- name: John Haney 
+- name: John Haney, GISP 
 - name: John Schulz
 - name: Laura Haverlah
 - name: Megan Yancy
-- name: Sarah Smith
+- name: Sarah Smith, GISP
 
 # # Clients information. Shown on Home and About pages.
 # clients:

@@ -8,15 +8,15 @@ permalink: /
     <div class="row centered">
         
         <div class="col-md-4">
-            <a href="/jobs/"><i class="fa fa-briefcase"></i></a>
+            <a href="/blog/jobs/"><i class="fa fa-briefcase"></i></a>
             <h4>Jobs</h4>
-            {% for job in site.categories['jobs'] limit: 5%}
+            {% for job in site.categories['jobs'] limit: 5 %}
                 <a href="{{job.url | prepend: site.baseurl}}">{{job.title}}</a></br>
             {% endfor %}
             
         </div>
         <div class="col-md-4">
-            <a href="/events/"><i class="fa fa-calendar"></i></a>
+            <a href="/blog/events/"><i class="fa fa-calendar"></i></a>
             <h4>Events</h4>
             {% for event in site.categories['events'] limit:5 %}
                 <a href="{{event.url | prepend: site.baseurl}}">{{event.title}}</a></br>
@@ -27,7 +27,7 @@ permalink: /
             <a href="/blog/"><i class="fa fa-rss"></i></a>
             <h4>News</h4>
             {% for post in site.categories['blog'] limit:5 %} 
-                <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></br>
+                <a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a></br>
             {% endfor %}
             
         </div>		 				
