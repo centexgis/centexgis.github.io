@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "URISA Texas Virtual Speaker Series - March 2017"
-date: 2017-02-21
+date: 2017-02-21 14:55
 author: Admin
 categories:
 - blog
