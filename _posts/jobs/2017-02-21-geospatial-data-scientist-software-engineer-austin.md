@@ -36,33 +36,4 @@ Desired:
 Education in one of the following career disciplines: 
 Computer Science, Data Science, Engineering, Mathematics
 
-Open entry-level experience with a solid technical foundation and a desire for continued learning and skill development.
-Experience with some of the tools below is highly desirable:
-- GIS: Geoserver, PostGIS, OpenLayers, Quantum GIS, ArcGIS
-
-- Cloud computing: Hadoop, Map-Reduce, Storm, Spark, Scalding, Hive
-
-- Web Development: Javascript, AJAX, CSS, AngularJS, D3, Python, HTML
-
-- Machine Learning: Neural Networks, Deep Learning, Random Forest
-
-- Data Processing and Analytics: Graph analytics, natural language processing, image processing
-
-- Data visualization: ggplot, D3
-
-If you’re interested in this role, let us know. Tell us what excites you, why you’d be a good fit, and what you want to learn. Looking forward to hearing from you!
-
-About Slingshot Aerospace:
-Slingshot Aerospace is driving worldwide improvements through globally relevant geo-analytics at a scale and frequency needed to truly optimize critical decisions.
-
-Job Type: Contract
-
-Salary: $60,000.00 to $80,000.00 /year
-
-Job Location:
-
-Austin, TX
-Required experience:
-
-GIS: 4 years
-Software Development: 4 years
+View the job posting on indeed [here](https://www.indeed.com/cmp/Slingshot-Aero/jobs/Geospatial-Data-Scientist-Software-Engineer-0ddc0dc0c801c332?q=GIS).
