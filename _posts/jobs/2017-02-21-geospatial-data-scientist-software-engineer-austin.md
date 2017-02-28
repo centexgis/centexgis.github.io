@@ -17,7 +17,7 @@ About this Job
 Slingshot Aerospace is an early stage startup company breaking into the industry at the intersection of New Space and Big Data. We are currently growing our team with motivated individuals.  
 
 Must be a U.S. citizen authorized to work in the U.S.  
-
+<!--more-->
 Duties/Responsibilities:  
 - Design, develop and document code for design of big data analytics software
 - Documentation and testing new software applications
