@@ -3,6 +3,7 @@ layout: post
 title: "Managing GIS Projects from GSAREH"
 date: 2015-11-25
 author: Admin
+excerpt_separator: <!--more-->
 categories:
 - blog
 - events
@@ -16,7 +17,7 @@ From Abby O'Conner, Program Director:
 
 *Dear GIS Professionals in Texas,
 Happy Thanksgiving to all. Following the workshop we delivered in the GIS TX forum last month, we are happy to share with you the flyer and course agenda of our last training offering of Managing GIS Projects this year. This course edition features special discounts over our regular price ($1,400).*
-
+<!--more-->
 * Duration: 3 day seminar
 
 * Location: Greater Austin Area
