@@ -26,4 +26,4 @@ Questions? Contact David at the below info.
 David W. Allen, GISP  
 GIS Manager @ City of Euless, Texas  
 Office: (817) 685-1633  
-Email: dallen@eulesstx.gov  
+Email: [dallen@eulesstx.gov](mailto:dallen@eulesstx.gov)  
