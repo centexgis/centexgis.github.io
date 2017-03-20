@@ -31,5 +31,6 @@ categories:
 + **Ray's World Taco** (formally Whatataco) will be on site with tasty food available for purchase. 
 
 
+
 #### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!
 
