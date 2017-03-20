@@ -5,7 +5,6 @@ date: 2017-03-20 09:55
 author: Admin
 excerpt_separator: <!--more-->
 categories:
-- blog
 - events
 - GIS
 ---
