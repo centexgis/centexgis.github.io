@@ -6,20 +6,21 @@ permalink: /
 <div id="service">
   <div class="container">
     <div class="row centered">
+		
+		<div class="col-md-6">
+            <a href="/category/#events"><i class="fa fa-calendar"></i></a>
+            <h4>Events</h4>
+            {% for event in site.categories['events'] limit:5 %}
+                <a href="{{event.url | prepend: site.baseurl}}">{{event.title}}</a></br>
+            {% endfor %}
+            
+        </div>
         
         <div class="col-md-6">
             <a href="/category/#Jobs"><i class="fa fa-briefcase"></i></a>
             <h4>Jobs</h4>
             {% for job in site.categories['jobs'] limit: 5 %}
                 <a href="{{job.url | prepend: site.baseurl}}">{{job.title}}</a></br>
-            {% endfor %}
-            
-        </div>
-        <div class="col-md-6">
-            <a href="/category/#events"><i class="fa fa-calendar"></i></a>
-            <h4>Events</h4>
-            {% for event in site.categories['events'] limit:5 %}
-                <a href="{{event.url | prepend: site.baseurl}}">{{event.title}}</a></br>
             {% endfor %}
             
         </div>
