@@ -9,7 +9,7 @@ categories:
 - events
 - GIS
 ---
-
+[![centex gis](/assets/img/blog/centex.png)]
 #### Be sure to attend the first meeting of 2017 this month at [Adelbert's Brewery](http://adelbertsbeer.com/)!!!
 
 #### Date: Tuesday March 28th
