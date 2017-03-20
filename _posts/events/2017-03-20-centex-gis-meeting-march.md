@@ -32,5 +32,5 @@ categories:
 
 
 
-#### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!
+#### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!*
 
