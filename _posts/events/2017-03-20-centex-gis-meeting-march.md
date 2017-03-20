@@ -10,11 +10,11 @@ categories:
 - GIS
 ---
 
-### Be sure to attend the first meeting of 2017 this month at [Adelbert's Brewery](http://adelbertsbeer.com/)!!!
+#### Be sure to attend the first meeting of 2017 this month at [Adelbert's Brewery](http://adelbertsbeer.com/)!!!
 
 #### Date: Tuesday March 28th
 
-#### Time: ### 5 - 7:30pm
+#### Time: 5 - 7:30pm
 
 #### Location: ### [2314 Rutland Dr #100, Austin, TX 78758](https://www.google.com/maps/place/Adelbert's+Brewery/@30.3825245,-97.720531,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x174d20f18188c72a!8m2!3d30.382525!4d-97.71988?hl=en)**
 <!--more-->
@@ -31,5 +31,5 @@ categories:
 + **Ray's World Taco** (formally Whatataco) will be on site with tasty food available for purchase. 
 
 
-### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!
+#### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!
 
