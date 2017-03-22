@@ -20,11 +20,11 @@ categories:
 <!--more-->
 
 #### Agenda:
-1. Meeting from 5 - 6pm
-  * SWOT Analysis - What do you think the strengths, weaknesses, opportunities and threats are specific to the CenTex GIS User Group?
-  * Trends Matrix - What changes in GIS are happening today and where are we headed next for each of these topics: technology, market, people, culture, and business?
-  * Rose, Bud, Thorn Exercise - In your current or recent GIS job/role, what activities or strategies are going well? What opportunities are emerging (or what activities or strategies have potential for greatness)? and What challenges do you face or what activities or strategies are not going well?
-2. Social and networking from 6 - 8pm
+1. **Meeting from 5 - 6pm**
+  * *SWOT Analysis* - What do you think the strengths, weaknesses, opportunities and threats are specific to the CenTex GIS User Group?
+  * *Trends Matrix* - What changes in GIS are happening today and where are we headed next for each of these topics: technology, market, people, culture, and business?
+  * *Rose, Bud, Thorn Exercise* - In your current or recent GIS job/role, what activities or strategies are going well? What opportunities are emerging (or what activities or strategies have potential for greatness)? and What challenges do you face or what activities or strategies are not going well?
+2. **Social and networking from 6 - 8pm**
 
 #### Food & Drink:
 + **Adelbert's Brewery** will have a variety of beers available for purchase, as well as Topo Chico, wine, cider, lemonade, and kombucha.
