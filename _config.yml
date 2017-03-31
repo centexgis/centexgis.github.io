@@ -3,7 +3,7 @@
 # Site settings
 title: CENTEXGIS
 description: "A GEOGRAPHIC INFORMATION SYSTEMS USER GROUP SERVING CENTRAL TEXAS"
-analytics: UA-96587142-1 #Google analytics code in the format XX-nnnnnnnn-n
+analytics: "UA-96587142-1" #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://centexgis.github.io"
 
