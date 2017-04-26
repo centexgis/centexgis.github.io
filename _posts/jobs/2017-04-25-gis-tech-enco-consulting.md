@@ -17,14 +17,16 @@ categories:
 
 Enco Consulting is looking for a GIS Technician, must have GIS Certification or equivalent courses and work experience. 
 <!--more-->
-Need to know:
+
+**Need to know:**
 - the ArcGIS Desktop platform 
 - be comfortable editing and annotating data
 
-Preferred:
+**Preferred:**
 - understand how to read plat maps, as-builts and constructions plans
 - QGIS and AutoCAD are a plus
 
-The position is in our Lakeway office. Send questions or resumes to <jacq@enco.net></jacq@enco.net>.
+The position is in our Lakeway office. 
+Send questions or resumes to  <jacq@enco.net>.
 
-Visit the enco consulting website at: [www.enco.net](http://www.enco.net/).
+Visit the enco consulting website at  [www.enco.net](http://www.enco.net/).
