@@ -12,8 +12,8 @@ categories:
 
 ![enco consulting](/assets/img/blog/enco.png)
 
-### Geographic Information Systems (GIS) Technician
-### Enco Consulting - Austin, TX
+#### Geographic Information Systems (GIS) Technician
+#### Enco Consulting - Austin, TX
 
 Enco Consulting is looking for a GIS Technician, must have GIS Certification or equivalent courses and work experience. 
 <!--more-->
