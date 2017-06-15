@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First CENTEX GIS meeting of 2017 Coming Up Soon"
+title: "June 2017 CENTEX GIS Meeting"
 date: 2017-06-15 13:22
 author: Admin
 excerpt_separator: <!--more-->
