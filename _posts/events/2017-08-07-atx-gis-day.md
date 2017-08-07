@@ -27,7 +27,3 @@ Both surveys will close next Wednesday 8/16/17.
 
 Thanks!
 The ATX GIS Day Planning Team
-
-
-
-*credit to [Michael Tompsett](https://fineartamerica.com/profiles/michael-tompsett.html) for the artistic image above found on the website [fineartamerica.com](https://fineartamerica.com/featured/austin-texas-skyline-michael-tompsett.html)
