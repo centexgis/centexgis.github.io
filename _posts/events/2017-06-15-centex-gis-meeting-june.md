@@ -6,10 +6,10 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
-![centex gis](/assets/img/blog/centex.png) 
+![centex gis](/assets/img/blog/centex.png)
 #### Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!
 
 #### Date: June 27, 2017

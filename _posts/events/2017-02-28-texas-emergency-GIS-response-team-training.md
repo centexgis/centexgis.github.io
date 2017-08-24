@@ -6,7 +6,7 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
 
@@ -18,7 +18,7 @@ David W. Allen, GISP is having another Texas Emergency GIS Response Team (EGRT) 
 Example – tornadoes moved through 5 counties in the Dallas area. Texas EGRT was deployed to the City of Rowlett EOC and the regional Disaster District EOC. Then Tx EGRT members worked within their own agencies to handle the response in 3 other counties. There were probably 25 people involved – each working a 6 hour shift, and EGRT knocked it out in record time. And time is a precious commodity in a disaster.
 
 Tx EGRT has a great working relationship with the Texas Division of Emergency Management (TDEM) to help provide GIS capabilities for state-level disasters – which can either be an on-site assignment or a remote assistance (from your desktop) assignment. EGRT is working with TDEM to standardize the GIS response state-wide but EGRT needs GIS people all over to make this really effective.
- 
+
 If you are interested in the class, check out the website below, and if you are already a member please forward to friends and co-workers so that Tx EGRT can get more trained people available for responses.
 
 [http://www.texasegrt.org/egrt-training.html](http://www.texasegrt.org/egrt-training.html)

@@ -6,7 +6,7 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
 

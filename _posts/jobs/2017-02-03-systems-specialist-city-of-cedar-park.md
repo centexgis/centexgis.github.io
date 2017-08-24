@@ -6,7 +6,7 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- jobs
+- Jobs
 - GIS
 ---
 
@@ -14,4 +14,4 @@ The City of Cedar Park is currently seeking qualified applicants for the positio
 <!--more-->
 Interested candidates can fill out an application at the link below or find it through the City of Cedar Park website at [cedarparktexas.gov](www.cedarparktexas.gov).
 
-[CLICK HERE](https://www.governmentjobs.com/careers/cedarparktx/jobs/1639680/information-systems-specialist?pagetype=jobOpportunitiesJobs) to view the official job posting. 
+[CLICK HERE](https://www.governmentjobs.com/careers/cedarparktx/jobs/1639680/information-systems-specialist?pagetype=jobOpportunitiesJobs) to view the official job posting.

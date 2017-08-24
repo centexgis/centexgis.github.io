@@ -6,7 +6,7 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
 [![geobash](/assets/img/blog/geobash.png)](https://austingeobash2015.splashthat.com/)

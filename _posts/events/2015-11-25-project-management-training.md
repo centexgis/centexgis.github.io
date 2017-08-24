@@ -6,10 +6,10 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
-![GSAREH](/assets/img/blog/manage.png) 
+![GSAREH](/assets/img/blog/manage.png)
 
 A new training opportunity from GSAREH.
 

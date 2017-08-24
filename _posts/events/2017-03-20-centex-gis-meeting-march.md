@@ -6,10 +6,10 @@ author: Admin
 excerpt_separator: <!--more-->
 categories:
 - blog
-- events
+- Events
 - GIS
 ---
-![centex gis](/assets/img/blog/centex.png) 
+![centex gis](/assets/img/blog/centex.png)
 #### Be sure to attend the first meeting of 2017 this month at [Adelbert's Brewery](http://adelbertsbeer.com/)!!!
 
 #### Date: Tuesday March 28th
@@ -28,9 +28,8 @@ categories:
 
 #### Food & Drink:
 + **Adelbert's Brewery** will have a variety of beers available for purchase, as well as Topo Chico, wine, cider, lemonade, and kombucha.
-+ **Ray's World Taco** (formally Whatataco) will be on site with tasty food available for purchase. 
++ **Ray's World Taco** (formally Whatataco) will be on site with tasty food available for purchase.
 
 
 
 #### *Special thanks to Adelbert's for giving us their awesome space for our meeting!!!*
-

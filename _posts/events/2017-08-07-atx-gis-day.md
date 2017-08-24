@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 categories:
 - blog
 - GIS
-- events
+- Events
 ---
 ![ATX GIS Day](/assets/img/blog/gis_day.jpg "ATX GIS Day")
 
