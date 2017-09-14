@@ -15,9 +15,11 @@ For 30 years, the Texas GIS Forum has been the can't-miss event for the statewid
 <!--more-->
 
 #### Lost as a Child, Online Maps Pointed To Hometown - Forum Keynote, Saroo Brierley
+
 ![Saroo Key Note Speaker](/assets/img/blog/saroo.jpg)
+
 Celebrating the 30th Annual Texas GIS Forum, Saroo Brierley, our keynote speaker, has a story that profoundly intersects his personal history with the power of modern geography and online mapping tools. Saroo will share his extraordinary story with us on Thursday, October 26, at Austin's landmark destination, The Oasis Restaurant at Lake Travis.
 
 #### Register for the event below and take advantage of lower prices before September 22nd!
-#### [Register here](https://www.regonline.com/registration/checkin.aspx?MethodId=0&EventSessionId=5cdfe0598c364b169bf9ecbd9886bc35&EventId=2011451)
-#### [View more information about the TNRIS GIS Forum here](https://tnris.org/texas-gis-forum/2017/)
+##### [Register here](https://www.regonline.com/registration/checkin.aspx?MethodId=0&EventSessionId=5cdfe0598c364b169bf9ecbd9886bc35&EventId=2011451)
+##### [View more information about the TNRIS GIS Forum here](https://tnris.org/texas-gis-forum/2017/)
