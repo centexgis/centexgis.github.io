@@ -9,9 +9,9 @@ categories:
 - GIS
 - Events
 ---
-![centexgis](/assets/img/blog/centex.png)
+<img style="float: left;" src="/assets/img/blog/centex.png">
 
-Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!  The meeting is scheduled for **Wednesday, September 27th 4:00 - 6:00 PM** at the Flying Saucer (Triangle location - *The Hall* is reserved).
+#### Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!  The meeting is scheduled for **Wednesday, September 27th 4:00 - 6:00 PM** at the Flying Saucer (Triangle location - *The Hall* is reserved).
 <!--more-->
 
 We hope you will come out to this important event and meet with local GIS colleagues and friends to learn, network and help strengthen GIS community bonds through knowledge sharing and support. **Devon Humphrey**, Founder of **Flightline Geographics**, will join us and talk with the group about emerging UAS technology.
