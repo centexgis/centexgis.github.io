@@ -35,6 +35,10 @@ markdown reference you may find useful.
 
 10. Make sure you are committing to the `master` branch and then `commit changes`. Your new file(s) will be processed and you should see the new post in the location you uploaded it to in the `centexgis.github.io` repo. The new post should be reflected at [centexgis.com](http://centexgis.com) within a few minutes.
  - *if you do not see the changes, keep refreshing the web page and you should see it eventually*
+ 
+### ***Update:***
+I didn't think about this until after I wrote this readme, but at step 4 instead of using your local text editor, you can create a new .md file within Github itself. Stick to the same naming convention stated above and create a new file within the `_posts` folder.
+
 
 ---------------------
 ### Credits/Reference
