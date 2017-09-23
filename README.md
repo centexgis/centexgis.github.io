@@ -37,7 +37,7 @@ markdown reference you may find useful.
  - *if you do not see the changes, keep refreshing the web page and you should see it eventually*
  
 ### ***Update:***
-I didn't think about this until after I wrote this readme, but at step 4 instead of using your local text editor, you can create a new .md file within Github itself. Stick to the same naming convention stated above and create a new file within the `_posts` folder.
+I didn't think about this until after I wrote this readme, but at step 4 instead of using your local text editor, you can create a new .md file within Github itself. Stick to the same naming convention stated above and create a new file within the `_posts/events` or `jobs` folder.
 
 
 ---------------------
