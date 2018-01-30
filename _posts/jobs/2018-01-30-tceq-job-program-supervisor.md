@@ -3,6 +3,7 @@ layout: post
 title: "TCEQ Job Posting - Program Supervisor"
 date: 2018-01-30 15:39
 author: admin
+excerpt_separator: <!--more-->
 categories:
 - blog
 - Jobs
@@ -22,7 +23,7 @@ Section/Division: Enterprise Support Section/Information Resources Division
 Work Location: 12100 Park 35 Circle, Austin, TX 78753  
 Openings: One  
 Position #(s): 0919  
-
+<!--more-->
 **Job Description**  
 Supervises and oversees technical team in the delivery of information technology
 services and products utilized by the Texas Commission on Environmental Quality.
