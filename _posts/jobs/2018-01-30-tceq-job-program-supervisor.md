@@ -9,9 +9,9 @@ categories:
 ---
 
 ### **Texas Commission on Environmental Quality Job Posting**  
-#### **Email applications to: (jobs@tceq.texas.gov)[mailto:jobs@tceq.texas.gov]**
+#### **Email applications to: [jobs@tceq.texas.gov](mailto:jobs@tceq.texas.gov)**
 
-TCEQ: (www.tceq.texas.gov)[www.tceq.texas.gov]  
+TCEQ: [www.tceq.texas.gov](www.tceq.texas.gov)  
 State Title: **Program Supervisor VII**  
 Job Posting: 18145  
 Monthly Salary: **$5258.66 - $5924.35**  
@@ -53,7 +53,7 @@ Bachelor of Science in Computer Science or Management Information Systems.
 Experience working with Crystal Reports and Web Intelligence reporting tools.
 
 **To Apply**  
-Email a State of Texas application to (jobs@tceq.texas.gov)[mailto:jobs@tceq.texas.gov]; or mail to TCEQ Human Resources & Staff Services, P.O. Box 13087, MC-116 Austin, TX 78711-3087; or
+Email a State of Texas application to [jobs@tceq.texas.gov](mailto:jobs@tceq.texas.gov); or mail to TCEQ Human Resources & Staff Services, P.O. Box 13087, MC-116 Austin, TX 78711-3087; or
 submit in person, at 12100 Park 35 Circle, Bldg. A, Austin, Texas 78753 by the close
 date. An electronically signed copy is acceptable.  
 In compliance with ADA, if you need any special accommodations during the
