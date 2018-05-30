@@ -1,88 +1,50 @@
-CenTexGIS site based on fork of SOLID Jekyll theme.
+### About
+The CenTex GIS website is built using the [Jekyll](http://jekyllrb.com/docs/home/) static site generator. The theme is based on a fork of the SOLID Jekyll theme. The site is hosted directly from this GitHub repo and includes a CNAME file in the root directory for the custom domain [centexgis.com](http://centexgis.com).
 
-View the site here - https://centexgis.github.io
+------------------------
+### Create/Add New Posts
+Posts to the centexgis.com site are written in [markdown](https://daringfireball.net/projects/markdown/syntax) format which is intended to be an easy-to-read and easy-to-write syntax for text-to-HTML. Many blogs on the web utilize markdown or similar syntax to speed up the publishing process since HTML can be cumbersome to read and write. The following are steps to add a new job, event, or news post to centexgis.com.
 
-------------------------------------------------------------------
+1. Login to [https://github.com](https://github.com) and navigate to the centexgis organization account – if you do not have a github account, create one and then request to be added as a member to centexgis.
 
-Jekyll theme description:
+2. The repository (repo) for the site content is called centexgis.github.io. Navigate to that repo by clicking the repo name on the centexgis account main page or [click here](https://github.com/centexgis/centexgis.github.io).
+
+3. The existing site posts are located in the `_posts` folder in the `centexgis.github.io` repo. Click the `_posts` folder. Inside you will see the category folders, each consisting of markdown formatted posts. For example, in the jobs folder you should see all the jobs that are currently posted on the centexgis.com site.
+
+4. To add a new post, open your [text editor](https://atom.io/) of choice. Save your new text file in the format `yyyymm-dd-name-of-post-like-this.md` where `yyyy` is the current four-digit year, `mm` is the two-digit month, and `dd` is the two digit day, followed by a name to describe the post, and then the `.md` or `.markdown` file extension.
+
+5. At the top of your new post, make sure to include the proper header info (this is called [front matter](https://jekyllrb.com/docs/frontmatter/)) necessary for the post to be recognized by the Jekyll site. Include the following:
+![front matter](assets/img/front-matter.jpg)
+
+6. Below the required header, you can begin your post content formatted in markdown. If you do
+not require any special formatting, hyperlinks, images, etc, you can always just type plain text. For markdown syntax reference, please refer to [daringfireball.net](https://daringfireball.net/projects/markdown/) or [github guides](https://guides.github.com/features/mastering-markdown/) or any other
+markdown reference you may find useful.
+ Here is an example of a plain text job posting (no links, images, etc).
+![markdown example](assets/img/md_example.jpg)
+
+ ***Note:*** If you would like to insert an image to your post, navigate to `/assets/img/blog/` and drag and drop your new image into this directory. Reference the image in your markdown post like:
+
+ `![Example](/assets/img/blog/example-image.jpg)`.
+
+7. Once your local markdown file is complete, open your browser to the `centexgis.github.io` repo location you would like it to be posted to (ie. *centexgis.github.io/_posts/jobs/*).
+
+8. Drag your .md or .markdown file from your machine (desktop) to the GitHub location in your browser.
+![drag drop md](assets/img/drag_md.jpg)
+
+9. Once you drop the file in the browser, the `commit` options will appear. You can choose to type a commit changes note for this commit, or you can proceed with the default ‘Add files via upload’ text. You also have an option for an extended description.
+
+10. Make sure you are committing to the `master` branch and then `commit changes`. Your new file(s) will be processed and you should see the new post in the location you uploaded it to in the `centexgis.github.io` repo. The new post should be reflected at [centexgis.com](http://centexgis.com) within a few minutes.
+ - *if you do not see the changes, keep refreshing the web page and you should see it eventually*
+ 
+### ***Update:***
+I didn't think about this until after I wrote this readme, but at step 4 instead of using your local text editor, you can create a new .md file within Github itself. Stick to the same naming convention stated above and create a new file within the `_posts/events` or `jobs` folder.
 
 
-Solid. A Bootstrap theme for Jekyll.
-============
-![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
-
-This is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/). Visit the [live demo](https://st4ple.github.io/solid-jekyll/) for a preview. 
-
-##Usage
-This theme can be customized, built and published straight from GitHub, thanks to [GitHub Pages](https://pages.github.com/). A local installation of Jekyll isn't even necessary!
-
-[Fork this repository](https://github.com/st4ple/solid-jekyll/fork) to get started. 
-####Customize  
-Most general settings and data like site name, colors, address, etc. can be configured and changed right in the main config file: `/_config.yml`
-The content of the Home page can be changed here: `/home.html`
-The content of the About page can be changed here: `/about.html`
-The content of the Portfolio page can be changed here:`/portfolio.html`
-The content of the Contact page can be changed here:`/contact.html`
-####Add content  
-Delete the demo content and publish your own content.
-#####Blog post
-Create a Blog post by creating a file called `yyyy-mm-dd-name-of-post-like-this.markdown` in the `/_posts/blog/` directory with the following template:
-```markdown
----
-layout: post          #important: don't change this
-title: "Name of post like this"
-date: yyyy-mm-dd hh:mm:ss
-author: Name
-categories:
-- blog                #important: leave this here
-- category1
-- category2
-- ...
-img: post01.jpg       #place image (850x450) with this name in /assets/img/blog/
-thumb: thumb01.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
----
-This text will appear in the excerpt "post preview" on the Blog page that lists all the posts.
-<!--more-->
-This text will not be shown in the excerpt because it is after the excerpt separator.
-```
-#####Project post
-Create a Project post to go in your Portfolio by creating a file called `yyyy-mm-dd-name-of-the-project.markdown` in the `/_posts/project/` directory with the following template:
-```markdown
----
-layout: project       #important: don't change this
-title:  "Name of the project"
-date: yyyy-mm-dd hh:mm:ss
-author: Name
-categories:
-- project             #important: leave this here
-img: portfolio_10.jpg #place image (600x450) with this name in /assets/img/project/
-thumb: thumb02.jpg
-carousel:
-- single01.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/
-- single02.jpg  
-- ...
-client: Company XY
-website: http://www.internet.com
----
-####This is a heading
-This is a regular paragraph. Write as much as you like.
-```
-#####Question entry
-Create a Question entry (that is listed in the Frequently Asked section on the Home page) in this directory by creating a file called `yyyy-mm-dd-do-i-have-a-question.markdown` in the `/_posts/project/` directory with the following template:
-```markdown
----
-layout: question
-title:  "Do I have a question?"
-date: yyyy-mm-dd hh:mm:ss
-author: First Last
-categories:
-- question            #important: leave this here
----
-####Can I use this theme for my website?
-Of course you can!
-```
-####Publish
-To publish with [GitHub Pages](https://pages.github.com/), simply create a branch called `gh-pages`in your repository. GitHub will build your site automatically and publish it at `http://yourusername.github.io/repositoryname/`.  
-If there are problems with loading assets like CSS files and images, make sure that the `baseurl` in the `_config.yml`is set correctly (it should say `/repositoryname`).
-
-If you want to host your website somewhere else than GitHub (or just would like to customize and build your site locally), please check out the [Jekyll documentation](http://jekyllrb.com/). 
+---------------------
+### Credits/Reference
+- [Daring Fireball by John Gruber](https://daringfireball.net/projects/markdown/)
+- [GitHub Guides – Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Jekyll](https://jekyllrb.com)
+- [Solid Jekyll theme](http://jekyllthemes.org/themes/solid/)
+- [Blacktie.co](http://blacktie.co)
+- [Blacktie.co Solid theme](http://blacktie.co/2014/05/solid-multipurpose-theme/)

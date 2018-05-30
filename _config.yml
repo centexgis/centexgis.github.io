@@ -3,7 +3,7 @@
 # Site settings
 title: CENTEXGIS
 description: "A GEOGRAPHIC INFORMATION SYSTEMS USER GROUP SERVING CENTRAL TEXAS"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: "UA-96587142-1" #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://centexgis.github.io"
 
@@ -55,11 +55,11 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:jacqcmb@gmail.com
-  - name: Conrad Schaefer, GISP
+  - name: Jennifer Kirby
     position: Vice-Chair
     social:
       - title: envelope #use for email address
-        url: mailto:frshtrax@yahoo.com
+        url: mailto:kirbyjen12@gmail.com
   - name: Kristi Teykl, GISP
     position: Secretary
     social:
@@ -69,14 +69,14 @@ committees:
 - name: Chris Robertson
 - name: Colin Sutton
 - name: Danny Haverlah
-- name: David Koberlein
-- name: Deven Rohrer
+- name: David Koberlein, GISP
+- name: Deven Rohrer, GISP
 - name: Dolph Scott
-- name: John Haney 
+- name: John Haney, GISP 
 - name: John Schulz
 - name: Laura Haverlah
 - name: Megan Yancy
-- name: Sarah Smith
+- name: Sara Smith, GISP
 
 # # Clients information. Shown on Home and About pages.
 # clients:
