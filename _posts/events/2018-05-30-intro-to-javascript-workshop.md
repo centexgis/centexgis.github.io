@@ -36,4 +36,4 @@ Students will be required to bring their own laptop with the following software 
 ![atx gis day](/assets/img/blog/atx-gis-day.jpg)
 
 **RSVP here:**<br>
-https://www.eventbrite.com/e/intro-to-java-script-workshop-tickets-46543186925
+[https://www.eventbrite.com/e/intro-to-java-script-workshop-tickets-46543186925](https://www.eventbrite.com/e/intro-to-java-script-workshop-tickets-46543186925)
