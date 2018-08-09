@@ -2,6 +2,10 @@
 
 The CenTex GIS website is built using the [Jekyll](http://jekyllrb.com/docs/home/) static site generator. The theme is based on a fork of the SOLID Jekyll theme. The site is hosted directly from this GitHub repo and includes a CNAME file in the root directory for the custom domain [centexgis.com](http://centexgis.com).
 
+## Wiki
+
+For information on how to post new jobs, events, and news articles to the website, or how to submit an issue to request one of these posts be created for you, see the repo [wiki](https://github.com/centexgis/centexgis.github.io/wiki).
+
 ------------------------
 ## Setup
 
