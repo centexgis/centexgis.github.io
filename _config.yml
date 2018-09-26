@@ -13,15 +13,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 # colors:  #in hex code if not noted else
-#   primary: "#65B8F5" #"#F70031" 
-primary_rgb: "13, 73, 118" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+#   primary: "#65B8F5" #"#F70031"
+primary_rgb: "13, 73, 118" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
 #   secondary: "#05375C" #"#33004D"
 #   link: "#1369A9"
 #   link_hover: "#65B8F5"
 #   footer_heading: "#ffffff"
 #   footer_content: "#ffffff"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -31,15 +31,15 @@ social:
   # - title: facebook
   #   url:
   # - title: twitter
-  #   url: 
+  #   url:
   # - title: instagram
-  #   url: 
+  #   url:
   - title: linkedin
     url: https://www.linkedin.com/grp/home?gid=1786489
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - We are based in Austin, Texas
     - Questions about membership, sponsorship or just want to get in touch. Send us an email.
 email: centexgis@gmail.com
@@ -47,7 +47,7 @@ email: centexgis@gmail.com
 
 
 ## GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
   - name: Jacquelyn Bilbro, GISP
@@ -60,11 +60,11 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:kirbyjen12@gmail.com
-  - name: Kristi Teykl, GISP
+  - name: Vacant
     position: Secretary
     social:
       - title: envelope #use for email address
-        url: mailto:kristi.teykl@aecom.com
+        url: mailto:centexgis@gmail.com
 committees:
 - name: Chris Robertson
 - name: Colin Sutton
@@ -72,7 +72,7 @@ committees:
 - name: David Koberlein, GISP
 - name: Deven Rohrer, GISP
 - name: Dolph Scott
-- name: John Haney, GISP 
+- name: John Haney, GISP
 - name: John Schulz
 - name: Laura Haverlah
 - name: Megan Yancy
@@ -88,10 +88,10 @@ committees:
 #     img: client03.png
 #   - name: VimeoPro
 #     img: client04.png
-    
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "CenTexGIS strives to provide the Central Texas GIS community with a forum for networking and growth. Our goal is to strengthen community bonds by bringing together public and private sector GIS professionals for knowledge sharing and support."
-# Testimonial content. Shown on Home and About page. 
+# Testimonial content. Shown on Home and About page.
 # testimonial:
 #     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
 #     author: Marcel Newman
